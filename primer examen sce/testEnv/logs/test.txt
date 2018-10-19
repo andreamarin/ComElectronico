@@ -1,0 +1,2 @@
+oct 19, 2018 9:45:11 AM rmistresser.Tester main
+GRAVE: Division entre 0
